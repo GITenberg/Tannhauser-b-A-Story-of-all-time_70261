@@ -1,0 +1,34 @@
+_repo: Tannhauser-b-A-Story-of-all-time_70261
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crowley, Aleister
+    aliases:
+    - Crowley, Edward Aleister
+    - Crowley, Edward Alexander
+    birthdate: 1875
+    deathdate: 1947
+    gutenberg_agent_id: '5341'
+    url: http://www.gutenberg.org/2009/agents/5341
+    wikipedia: https://en.wikipedia.org/wiki/Aleister_Crowley
+description: ''
+gutenberg_issued: '2023-03-10'
+identifiers:
+  gutenberg: '70261'
+language: en
+pgterms:marc904: https://archive.org/details/tannhauserstory00crow/page/n5/mode/2up
+pgterms:marc905: 20210406182213crowley
+pgterms:marc906: '1907'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited Kingdom :$bSociety for the Propagation of Religious
+  Truth, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tannhäuser : $b A Story of all time'
+url: http://www.gutenberg.org/ebooks/70261
