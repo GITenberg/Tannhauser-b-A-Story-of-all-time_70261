@@ -1,5 +1,8 @@
 _repo: Tannhauser-b-A-Story-of-all-time_70261
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70261-h/images/cover.jpg
 creator:
   author:
     agent_name: Crowley, Aleister
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5341
     wikipedia: https://en.wikipedia.org/wiki/Aleister_Crowley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70261#Tannhauser-b-A-Story-of-all-time
 gutenberg_issued: '2023-03-10'
 identifiers:
   gutenberg: '70261'
